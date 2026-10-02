@@ -1,0 +1,180 @@
+{
+ "run_id": "A_g6.001_s0.005_lc0.5_N16",
+ "structure": "A",
+ "structure_id": 1,
+ "d": 0.782,
+ "r0": 0.18,
+ "gmode": [
+  0
+ ],
+ "gmax": 6.001,
+ "N": 16,
+ "sigma": 0.005,
+ "lc": 0.5,
+ "grid_index": 59,
+ "n_seeds": 20,
+ "f0": 0.32415991143871864,
+ "inv_q_clean": 1.421791427570638e-11,
+ "rows": [
+  {
+   "seed": 159000,
+   "numeig": 24,
+   "inv_q_proj": 2.6348804134391065e-07,
+   "inv_q_mode": 1.8618049758026592e-07,
+   "overlap_sum": 0.9998377260776451,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159001,
+   "numeig": 24,
+   "inv_q_proj": 9.391032215862012e-07,
+   "inv_q_mode": 6.417070185971745e-07,
+   "overlap_sum": 0.9997679873233845,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159002,
+   "numeig": 24,
+   "inv_q_proj": 4.215119659189279e-07,
+   "inv_q_mode": 2.973747612861501e-07,
+   "overlap_sum": 0.9998035501582229,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159003,
+   "numeig": 24,
+   "inv_q_proj": 9.72789358530422e-07,
+   "inv_q_mode": 6.49006295735801e-07,
+   "overlap_sum": 0.999863217007086,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159004,
+   "numeig": 24,
+   "inv_q_proj": 5.95622564416531e-07,
+   "inv_q_mode": 4.0405597770355536e-07,
+   "overlap_sum": 0.9998447401091276,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159005,
+   "numeig": 24,
+   "inv_q_proj": 1.487470651045629e-06,
+   "inv_q_mode": 1.0326163631891452e-06,
+   "overlap_sum": 0.9996115963147667,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159006,
+   "numeig": 24,
+   "inv_q_proj": 3.7085771038753873e-07,
+   "inv_q_mode": 2.5575140208856963e-07,
+   "overlap_sum": 0.9998505634079623,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159007,
+   "numeig": 24,
+   "inv_q_proj": 9.871327906293865e-07,
+   "inv_q_mode": 6.651541953461486e-07,
+   "overlap_sum": 0.9997640490149904,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159008,
+   "numeig": 24,
+   "inv_q_proj": 8.946313165866914e-07,
+   "inv_q_mode": 6.111513114793727e-07,
+   "overlap_sum": 0.9998338368991985,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159009,
+   "numeig": 24,
+   "inv_q_proj": 9.021829330726139e-07,
+   "inv_q_mode": 6.267956875547051e-07,
+   "overlap_sum": 0.999784629632398,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159010,
+   "numeig": 24,
+   "inv_q_proj": 4.7546923959970796e-07,
+   "inv_q_mode": 3.141547018443659e-07,
+   "overlap_sum": 0.9998138941069646,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159011,
+   "numeig": 24,
+   "inv_q_proj": 2.2127760341268053e-07,
+   "inv_q_mode": 1.565622461609945e-07,
+   "overlap_sum": 0.999823840656926,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159012,
+   "numeig": 24,
+   "inv_q_proj": 4.0951934278178407e-07,
+   "inv_q_mode": 2.88768880366885e-07,
+   "overlap_sum": 0.9998075710222479,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159013,
+   "numeig": 24,
+   "inv_q_proj": 2.01025839213255e-06,
+   "inv_q_mode": 1.3341085446999776e-06,
+   "overlap_sum": 0.9997816381410839,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159014,
+   "numeig": 24,
+   "inv_q_proj": 9.916607024593012e-07,
+   "inv_q_mode": 6.676490929995715e-07,
+   "overlap_sum": 0.9998711757380245,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159015,
+   "numeig": 24,
+   "inv_q_proj": 4.482496262979046e-07,
+   "inv_q_mode": 3.024110759719057e-07,
+   "overlap_sum": 0.9999119010594568,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159016,
+   "numeig": 24,
+   "inv_q_proj": 1.285411193363451e-07,
+   "inv_q_mode": 8.877890710781043e-08,
+   "overlap_sum": 0.99988667501848,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159017,
+   "numeig": 24,
+   "inv_q_proj": 8.67907639010096e-07,
+   "inv_q_mode": 6.044888389708298e-07,
+   "overlap_sum": 0.9998222375894903,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159018,
+   "numeig": 24,
+   "inv_q_proj": 4.0267428190169803e-07,
+   "inv_q_mode": 2.726433753720034e-07,
+   "overlap_sum": 0.9998374596660052,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 159019,
+   "numeig": 24,
+   "inv_q_proj": 3.379928012586942e-07,
+   "inv_q_mode": 2.2361450905585544e-07,
+   "overlap_sum": 0.9999386697516242,
+   "radius_floor_hits": 0
+  }
+ ]
+}

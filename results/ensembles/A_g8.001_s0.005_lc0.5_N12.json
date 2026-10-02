@@ -1,0 +1,100 @@
+{
+ "run_id": "A_g8.001_s0.005_lc0.5_N12",
+ "structure": "A",
+ "structure_id": 1,
+ "d": 0.782,
+ "r0": 0.18,
+ "gmode": [
+  0
+ ],
+ "gmax": 8.001,
+ "N": 12,
+ "sigma": 0.005,
+ "lc": 0.5,
+ "grid_index": 1,
+ "n_seeds": 10,
+ "f0": 0.3242965642742674,
+ "inv_q_clean": 1.0293920193499828e-11,
+ "rows": [
+  {
+   "seed": 101000,
+   "numeig": 20,
+   "inv_q_proj": 1.072031780154165e-07,
+   "inv_q_mode": 8.399962566047541e-08,
+   "overlap_sum": 0.9998789465371423,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 101001,
+   "numeig": 20,
+   "inv_q_proj": 5.968940971318837e-07,
+   "inv_q_mode": 4.788008972456551e-07,
+   "overlap_sum": 0.999665262265305,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 101002,
+   "numeig": 20,
+   "inv_q_proj": 3.640401440798598e-08,
+   "inv_q_mode": 3.087375274092781e-08,
+   "overlap_sum": 0.99988422723298,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 101003,
+   "numeig": 20,
+   "inv_q_proj": 1.7456775659107255e-07,
+   "inv_q_mode": 1.233012106649548e-07,
+   "overlap_sum": 0.9998972215145715,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 101004,
+   "numeig": 20,
+   "inv_q_proj": 1.6189755303663603e-07,
+   "inv_q_mode": 1.187931027853532e-07,
+   "overlap_sum": 0.9998607715293739,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 101005,
+   "numeig": 20,
+   "inv_q_proj": 4.2843411270222374e-08,
+   "inv_q_mode": 3.620303358963349e-08,
+   "overlap_sum": 0.9999117110924439,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 101006,
+   "numeig": 20,
+   "inv_q_proj": 1.1565873787090246e-07,
+   "inv_q_mode": 9.154730071574817e-08,
+   "overlap_sum": 0.9998529610512993,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 101007,
+   "numeig": 20,
+   "inv_q_proj": 2.4771688048048903e-07,
+   "inv_q_mode": 1.807350057797894e-07,
+   "overlap_sum": 0.9998844198321315,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 101008,
+   "numeig": 20,
+   "inv_q_proj": 1.803305625395491e-07,
+   "inv_q_mode": 1.3010330540452851e-07,
+   "overlap_sum": 0.9999193312695983,
+   "radius_floor_hits": 0
+  },
+  {
+   "seed": 101009,
+   "numeig": 20,
+   "inv_q_proj": 3.686001768289348e-07,
+   "inv_q_mode": 2.8603740092339877e-07,
+   "overlap_sum": 0.9996791765531473,
+   "radius_floor_hits": 0
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+name: qbic-disorder
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy==2.4.4
+      - scipy==1.17.1
+      - matplotlib==3.10.9
+      - pillow==12.2.0
+      - legume-gme==1.0.3
+      - grcwa==0.1.2
+      - autograd==1.9.1
+      - ipykernel==7.3.0
+      - nbconvert==7.17.1
