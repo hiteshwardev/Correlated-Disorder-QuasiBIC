@@ -34,7 +34,7 @@ Measured quality factors of quasi-BICs fall short of ideal values, and fabricati
 3. A separation of quantities converged in the plane-wave cutoff (enhancement ratios) from those that are not (absolute losses).
 4. A demonstration that an apparent merged BIC at low cutoff is a basis-truncation artefact.
 
-5. **Positioning relative to prior work.** Correlated disorder has been studied in photonic-crystal waveguides, where long-range correlations reduced out-of-plane loss (Vasco and Hughes, *ACS Photonics*, 2019), and disorder-generated quasi-bound flat bands have been studied in photonic-crystal slabs (arXiv:2511.05024). A literature search in October 2026 found no earlier study of Gaussian-correlated hole-radius disorder acting on a symmetry-protected BIC with a spectral-overlap model.
+5. **Positioning relative to prior work.** Correlated disorder has been studied in photonic-crystal waveguides, where long-range correlations reduced out-of-plane loss (Vasco and Hughes, *ACS Photonics*, 2019), and disorder-generated quasi-bound flat bands have been studied in photonic-crystal slabs (arXiv:2511.05024). 
 
 ## Key Findings
 
