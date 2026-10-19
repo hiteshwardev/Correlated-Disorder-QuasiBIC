@@ -1,7 +1,6 @@
 # Correlated Disorder and the Radiative Loss of a Photonic-Crystal Quasi-Bound State in the Continuum
 
-**Authors:** Hitesh Kumar Singh · [ORCID: 0009-0008-1583-4848](https://orcid.org/0009-0008-1583-4848), and Rajesh Sharma
-*Department of Physics, Kurukshetra University, Kurukshetra, Haryana, India (H. K. Singh); Department of Physics, MNS Government College, Bhiwani, Haryana, India (R. Sharma)*
+**Authors:** Hitesh Kumar Singh · [ORCID: 0009-0008-1583-4848](https://orcid.org/0009-0008-1583-4848), Department of Physics, Kurukshetra University, Kurukshetra, Haryana, India
 
 ---
 
