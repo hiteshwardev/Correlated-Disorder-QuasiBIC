@@ -49,8 +49,7 @@ The disorder is one-dimensional, only hole radii fluctuate, and the slab is free
 
 ## Roles
 
-**Hitesh Kumar Singh** carried out the major part of the work: conceptualization, methodology, software, validation, formal analysis, investigation, data curation, visualization and the original draft. This includes designing the disorder ensembles, the convergence and verification studies and the statistical analysis.
-**Rajesh Sharma** provided supervision and scientific guidance and reviewed and edited the manuscript.
+**Hitesh Kumar Singh** carried out the conceptualization, methodology, software, validation, formal analysis, investigation, data curation, visualization and the original draft. This includes designing the disorder ensembles, the convergence and verification studies and the statistical analysis.
 
 ## Reproducibility and Availability
 
